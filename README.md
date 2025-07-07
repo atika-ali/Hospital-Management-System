@@ -58,7 +58,7 @@ The system supports core functionalities like:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/hospital-management-system.git
+   git clone https://github.com/atika-ali/hospital-management-system.git
    cd hospital-management-system
    ```
 
